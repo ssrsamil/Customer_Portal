@@ -1,0 +1,10 @@
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\obj\Debug\CustomerPortal.csprojAssemblyReference.cache
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\obj\Debug\CustomerPortal.Form1.resources
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\obj\Debug\CustomerPortal.Properties.Resources.resources
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\obj\Debug\CustomerPortal.csproj.GenerateResource.cache
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\obj\Debug\CustomerPortal.csproj.CoreCompileInputs.cache
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\bin\Debug\CustomerPortal.exe.config
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\bin\Debug\CustomerPortal.exe
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\bin\Debug\CustomerPortal.pdb
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\obj\Debug\CustomerPortal.exe
+C:\Users\amlmammadov\source\repos\CustomerPortal\CustomerPortal\obj\Debug\CustomerPortal.pdb
