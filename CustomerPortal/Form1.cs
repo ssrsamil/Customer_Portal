@@ -240,7 +240,7 @@ namespace CustomerPortal
             bb1.Text = "Press to interrupt";
             bb1.Width = 150;
             bb1.Height = 30;
-            bb1.Location = new System.Drawing.Point(10, 75);
+            bb1.Location = new System.Drawing.Point(120, 10);
             panel2.Controls.Add(bb1);
 
             preBalance = subscriberList[position].Balance;
@@ -339,7 +339,7 @@ namespace CustomerPortal
             string text = "";
             foreach (Subscriber sub in subscriberList)
             {
-                text += " - " + sub.MSISDN + " (" + sub.TarifPackage.PackageName.ToUpper() + ") balance: " + sub.Balance + " azn." + "\r\n" + "\r\n";
+                text += " - " + sub.MSISDN + " (" + sub.TarifPackage.PackageName.ToUpper() + ") balance: " + string.Format("{0:0.##}",sub.Balance) + " azn." + "\r\n" + "\r\n";
             }
             return text;
         }

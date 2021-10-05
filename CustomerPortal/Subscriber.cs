@@ -9,17 +9,6 @@ namespace CustomerPortal
 {
     class Subscriber
     {
-        public Subscriber(string msisdn)
-        {
-            MSISDN = msisdn;
-            Balance = 0.0M;
-        }
-        public Subscriber(string msisdn, Tariff tarif)
-        {
-            MSISDN = msisdn;
-            Balance = 0.0M;
-        }
-
         public Subscriber(string msisdn, decimal balance, Tariff tarif)
         {
             MSISDN = msisdn;
